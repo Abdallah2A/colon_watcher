@@ -1,8 +1,8 @@
+# Colon Watcher
+
 <p align="center">
   <img src="images/logo.png" alt="Colon Watcher Logo" width="180" align="right">
 </p>
-
-# Colon Watcher
 
 A real-time polyp detection system for colonoscopy procedures. **Colon Watcher** leverages **YOLOv10b** for object detection and uses **ZenML** pipelines to manage the data cleaning, training, and deployment workflow. A **FastAPI** service is provided for model inference, and a **Docker** configuration is included for easy containerization and deployment.
 
