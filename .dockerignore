@@ -1,0 +1,15 @@
+__pycache__
+*.pyc
+.git
+.zen
+.venv
+data/
+steps/
+pipelines/
+utils/
+run.py
+saved_models/evaluating
+.dockerignore
+run_pipeline.py
+api/client.py
+yolo11n.pt
