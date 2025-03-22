@@ -202,7 +202,7 @@ A `Dockerfile` is provided for containerizing the FastAPI service with the train
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Abdallah2A/Colon-Watcher.git
+   git clone https://github.com/Abdallah2A/colon_watcher.git
    ```
 2. **Install Dependencies**:
    ```bash
