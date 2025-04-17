@@ -180,12 +180,6 @@ A `Dockerfile` is provided for containerizing the FastAPI service with the train
 ---
 
 ## How the Model Works
-
-
-  PLACEHOLDER FOR MODEL DIAGRAM OR FLOWCHART
-  Add an image or diagram illustrating how the model processes an input image and outputs detection results.
-  
-  Example:
   
   <p align="center">
     <img src="images/val_batch2_labels.jpg" alt="Model Workflow" width="500" />
